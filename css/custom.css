@@ -1,0 +1,9 @@
+.table .thead-dark th {
+    color: #fff;
+    background-color: plum;
+    border-color: gray;
+  }
+
+  .bg-light {
+    background-color: purple !important;
+  } 
